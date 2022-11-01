@@ -1,0 +1,12 @@
+[mysql]
+[content_manager]
+db_name = "go_cms"
+db_alias = "default"
+db_user = "root"
+db_pwd = "123456"
+db_host = "47.96.125.127"
+db_port = "3306"
+db_charset = "utf8"
+
+
+
